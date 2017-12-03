@@ -1,0 +1,299 @@
+----------------------------------------------------------
+           Request from client to proxy server:           
+Client Host address: 127.0.0.1
+Local port: 56834
+CLient host name: localhost
+Request: GET http://www.textfiles.com/ HTTP/1.1
+Request length: 363 bytes
+----------------------------------------------------------
+                         Socket Details                   
+Socket family:  2
+Socket type:  0
+Socket protocol:  0
+----------------------------------------------------------
+                    Cache Miss Occured                    
+Request from web proxy server to server
+Request: GET / HTTP/1.1
+Host: www.textfiles.com
+
+
+Request length: 40 bytes
+Response length: 10493 bytes
+Time Elapse i.e. RTT: 5.1043009757995605
+Connection closed
+----------------------------------------------------------
+           Request from client to proxy server:           
+Client Host address: 127.0.0.1
+Local port: 56837
+CLient host name: localhost
+Request: GET http://www.textfiles.com/images/whoyou.gif HTTP/1.1
+Request length: 326 bytes
+----------------------------------------------------------
+                         Socket Details                   
+Socket family:  2
+Socket type:  0
+Socket protocol:  0
+----------------------------------------------------------
+                      Cache Hit Occured                   
+Response length: 10493
+RTT is:0.0010042190551757812
+----------------------------------------------------------
+           Request from client to proxy server:           
+Client Host address: 127.0.0.1
+Local port: 56839
+CLient host name: localhost
+Request: GET http://www.textfiles.com/images/wmatter.gif HTTP/1.1
+Request length: 327 bytes
+----------------------------------------------------------
+                         Socket Details                   
+Socket family:  2
+Socket type:  0
+Socket protocol:  0
+----------------------------------------------------------
+                      Cache Hit Occured                   
+Response length: 10493
+RTT is:0.0010025501251220703
+----------------------------------------------------------
+           Request from client to proxy server:           
+Client Host address: 127.0.0.1
+Local port: 56845
+CLient host name: localhost
+Request: GET http://www.textfiles.com/images/wheref.gif HTTP/1.1
+Request length: 326 bytes
+----------------------------------------------------------
+                         Socket Details                   
+Socket family:  2
+Socket type:  0
+Socket protocol:  0
+----------------------------------------------------------
+                      Cache Hit Occured                   
+Response length: 10493
+RTT is:0.0
+----------------------------------------------------------
+           Request from client to proxy server:           
+Client Host address: 127.0.0.1
+Local port: 56847
+CLient host name: localhost
+Request: GET http://www.textfiles.com/images/textfile.gif HTTP/1.1
+Request length: 328 bytes
+----------------------------------------------------------
+                         Socket Details                   
+Socket family:  2
+Socket type:  0
+Socket protocol:  0
+----------------------------------------------------------
+                      Cache Hit Occured                   
+Response length: 10493
+RTT is:0.0010013580322265625
+----------------------------------------------------------
+           Request from client to proxy server:           
+Client Host address: 127.0.0.1
+Local port: 56849
+CLient host name: localhost
+Request: GET http://www.textfiles.com/images/whatw.gif HTTP/1.1
+Request length: 325 bytes
+----------------------------------------------------------
+                         Socket Details                   
+Socket family:  2
+Socket type:  0
+Socket protocol:  0
+----------------------------------------------------------
+                      Cache Hit Occured                   
+Response length: 10493
+RTT is:0.0010025501251220703
+----------------------------------------------------------
+           Request from client to proxy server:           
+Client Host address: 127.0.0.1
+Local port: 56851
+CLient host name: localhost
+Request: GET http://www.textfiles.com/images/howc.gif HTTP/1.1
+Request length: 324 bytes
+----------------------------------------------------------
+                         Socket Details                   
+Socket family:  2
+Socket type:  0
+Socket protocol:  0
+----------------------------------------------------------
+                      Cache Hit Occured                   
+Response length: 10493
+RTT is:0.0010042190551757812
+----------------------------------------------------------
+           Request from client to proxy server:           
+Client Host address: 127.0.0.1
+Local port: 56855
+CLient host name: localhost
+Request: GET http://www.google.com/ HTTP/1.1
+Request length: 357 bytes
+----------------------------------------------------------
+                         Socket Details                   
+Socket family:  2
+Socket type:  0
+Socket protocol:  0
+----------------------------------------------------------
+                    Cache Miss Occured                    
+Request from web proxy server to server
+Request: GET / HTTP/1.1
+Host: www.google.com
+
+
+Request length: 37 bytes
+Response length: 45800 bytes
+Time Elapse i.e. RTT: 240.1305570602417
+Connection closed
+----------------------------------------------------------
+           Request from client to proxy server:           
+Client Host address: 127.0.0.1
+Local port: 56858
+CLient host name: localhost
+Request: GET http://ssl.gstatic.com/gb/images/b_8d5afc09.png HTTP/1.1
+Request length: 326 bytes
+----------------------------------------------------------
+                         Socket Details                   
+Socket family:  2
+Socket type:  0
+Socket protocol:  0
+----------------------------------------------------------
+                    Cache Miss Occured                    
+Request from web proxy server to server
+Request: GET / HTTP/1.1
+Host: ssl.gstatic.com
+
+
+Request length: 38 bytes
+Response length: 1783 bytes
+Time Elapse i.e. RTT: 240.06961822509766
+Connection closed
+----------------------------------------------------------
+           Request from client to proxy server:           
+Client Host address: 127.0.0.1
+Local port: 56860
+CLient host name: localhost
+Request: GET http://www.google.com/xjs/_/js/k=xjs.hp.en_US.y1Ww5_woifk.O/m=sb_he,d/rt=j/d=1/t=zcms/rs=ACT90oHUj97awodLSOQYpr0rkIsLnA8IdQ HTTP/1.1
+Request length: 560 bytes
+----------------------------------------------------------
+                         Socket Details                   
+Socket family:  2
+Socket type:  0
+Socket protocol:  0
+----------------------------------------------------------
+                      Cache Hit Occured                   
+Response length: 45800
+RTT is:0.0010073184967041016
+----------------------------------------------------------
+           Request from client to proxy server:           
+Client Host address: 127.0.0.1
+Local port: 56883
+CLient host name: localhost
+Request: GET http://www.google.com/client_204?&atyp=i&biw=688&bih=728&ei=8nEVWMipO6zWjwSZ-qwg HTTP/1.1
+Request length: 517 bytes
+----------------------------------------------------------
+                         Socket Details                   
+Socket family:  2
+Socket type:  0
+Socket protocol:  0
+----------------------------------------------------------
+                      Cache Hit Occured                   
+Response length: 45800
+RTT is:0.0009717941284179688
+----------------------------------------------------------
+           Request from client to proxy server:           
+Client Host address: 127.0.0.1
+Local port: 56906
+CLient host name: localhost
+Request: GET http://www.google.com/images/nav_logo229.png HTTP/1.1
+Request length: 481 bytes
+----------------------------------------------------------
+                         Socket Details                   
+Socket family:  2
+Socket type:  0
+Socket protocol:  0
+----------------------------------------------------------
+                      Cache Hit Occured                   
+Response length: 45800
+RTT is:0.0010025501251220703
+----------------------------------------------------------
+           Request from client to proxy server:           
+Client Host address: 127.0.0.1
+Local port: 56908
+CLient host name: localhost
+Request: GET http://www.google.com/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png HTTP/1.1
+Request length: 535 bytes
+----------------------------------------------------------
+                         Socket Details                   
+Socket family:  2
+Socket type:  0
+Socket protocol:  0
+----------------------------------------------------------
+                      Cache Hit Occured                   
+Response length: 45800
+RTT is:0.0010023117065429688
+----------------------------------------------------------
+           Request from client to proxy server:           
+Client Host address: 127.0.0.1
+Local port: 56910
+CLient host name: localhost
+Request: GET http://ssl.gstatic.com/gb/js/sem_e1dcd2340cd4d3c46d125e311238879f.js HTTP/1.1
+Request length: 347 bytes
+----------------------------------------------------------
+                         Socket Details                   
+Socket family:  2
+Socket type:  0
+Socket protocol:  0
+----------------------------------------------------------
+                      Cache Hit Occured                   
+Response length: 1783
+RTT is:0.0
+----------------------------------------------------------
+           Request from client to proxy server:           
+Client Host address: 127.0.0.1
+Local port: 56912
+CLient host name: localhost
+Request: GET http://www.google.com/images/branding/product/ico/googleg_lodp.ico HTTP/1.1
+Request length: 470 bytes
+----------------------------------------------------------
+                         Socket Details                   
+Socket family:  2
+Socket type:  0
+Socket protocol:  0
+----------------------------------------------------------
+                      Cache Hit Occured                   
+Response length: 45800
+RTT is:0.0010058879852294922
+----------------------------------------------------------
+           Request from client to proxy server:           
+Client Host address: 127.0.0.1
+Local port: 56914
+CLient host name: localhost
+Request: GET http://www.google.com/images/nav_logo229.png HTTP/1.1
+Request length: 481 bytes
+----------------------------------------------------------
+                         Socket Details                   
+Socket family:  2
+Socket type:  0
+Socket protocol:  0
+----------------------------------------------------------
+                      Cache Hit Occured                   
+Response length: 45800
+RTT is:0.0010046958923339844
+----------------------------------------------------------
+           Request from client to proxy server:           
+Client Host address: 127.0.0.1
+Local port: 56920
+CLient host name: localhost
+Request: GET http://hh.vvyu.vjj/ HTTP/1.1
+Request length: 351 bytes
+----------------------------------------------------------
+                         Socket Details                   
+----------------------------------------------------------
+ERROR 400 BAD REQUEST
+----------------------------------------------------------
+           Request from client to proxy server:           
+Client Host address: 127.0.0.1
+Local port: 56922
+CLient host name: localhost
+Request: GET http://hh.vvyu.vjj/favicon.ico HTTP/1.1
+Request length: 272 bytes
+----------------------------------------------------------
+                         Socket Details                   
+----------------------------------------------------------
+ERROR 400 BAD REQUEST
